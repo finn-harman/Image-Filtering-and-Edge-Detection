@@ -9,10 +9,10 @@ An exploration of image filtering and edge detection in Python.
 
 ## Built With
 
-* [NumPy]
-* [Matplotlib]
-* [SciPy]
-* [PyTorch]
+* [NumPy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [SciPy](https://www.scipy.org/)
+* [PyTorch](https://pytorch.org/)
 
 ## Authors
 

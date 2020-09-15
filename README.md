@@ -1,4 +1,4 @@
-# Image-filtering-and-Edge-Detection
+# Image-Filtering-and-Edge-Detection
 
 An exploration of image filtering and edge detection in Python.
 * Moving average filter
